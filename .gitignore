@@ -1,6 +1,6 @@
 # Ignore __ dirs #
-*__/
-*__
+*__/*
+*__*
 
 # Ignore Files #
 *.csv
@@ -22,3 +22,4 @@
 *.ppk
 *.pk12
 *_*.*
+*.pdf
