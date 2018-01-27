@@ -1,3 +1,24 @@
 # Ignore __ dirs #
 *__/
 *__
+
+# Ignore Files #
+*.csv
+*.doc*
+*.xls*
+*.log
+*debug*
+*.psm*
+*.ppt*
+*.zip
+*.rar
+*.gz*
+*.tar*
+*.nfo
+*.htm*
+*.ost
+*.pst
+*.cert
+*.ppk
+*.pk12
+*_*.*
